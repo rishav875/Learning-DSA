@@ -1,4 +1,4 @@
-package questions.arrays.binarySearch;
+package questions.arrays.searching;
 
 import java.util.Arrays;
 
